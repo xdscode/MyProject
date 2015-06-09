@@ -1,0 +1,268 @@
+{
+  "ID": "44766b42-d3a9-408c-9fb0-2fe3b4fa1b1d",
+  "Version": "2.2.1.0",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "PrePosition": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "PreSize": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "RightMargin": -1136.0,
+        "TopMargin": -640.0,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/map.jpg"
+            },
+            "Tag": 4,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "ActionTag": 1007910874,
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "CColor": {},
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "FrameEvent": "",
+            "Name": "map_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/headbd.png"
+            },
+            "Tag": 5,
+            "PrePosition": {
+              "X": 0.1219983,
+              "Y": 0.8954953
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 11.5900726,
+            "RightMargin": 870.4099,
+            "TopMargin": 7.38299561,
+            "BottomMargin": 513.617,
+            "ActionTag": -1703290818,
+            "Position": {
+              "X": 138.590073,
+              "Y": 573.117
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 254.0,
+              "Y": 119.0
+            },
+            "FrameEvent": "",
+            "Name": "headbd_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png"
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "ui/yingyue_guan.png"
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "ui/yingyue_kai.png"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 46,
+            "Scale9Height": 36,
+            "TouchEnable": true,
+            "Tag": 6,
+            "PrePosition": {
+              "X": 0.2775156,
+              "Y": 0.942374349
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 292.257721,
+            "RightMargin": 797.7423,
+            "TopMargin": 18.8804321,
+            "BottomMargin": 585.119568,
+            "ActionTag": 1656828802,
+            "Position": {
+              "X": 315.257721,
+              "Y": 603.119568
+            },
+            "Scale": {
+              "ScaleX": 1.2,
+              "ScaleY": 1.2
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 46.0,
+              "Y": 36.0
+            },
+            "FrameEvent": "",
+            "Name": "bt_music",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "LabelText": "lv:200",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "ui/ziti_2.fnt"
+            },
+            "Tag": 7,
+            "PrePosition": {
+              "X": 0.126835153,
+              "Y": 0.892241359
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 144.084732,
+            "RightMargin": 851.9153,
+            "TopMargin": 45.9655151,
+            "BottomMargin": 548.0345,
+            "ActionTag": 2077698344,
+            "Position": {
+              "X": 144.084732,
+              "Y": 571.0345
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 140.0,
+              "Y": 46.0
+            },
+            "FrameEvent": "",
+            "Name": "lv_200",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "LV:100",
+            "Tag": 8,
+            "PrePosition": {
+              "X": 0.128234178,
+              "Y": 0.9371651
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 145.674026,
+            "RightMargin": 930.326,
+            "TopMargin": 30.2143555,
+            "BottomMargin": 589.785645,
+            "ActionTag": -250850271,
+            "Position": {
+              "X": 145.674026,
+              "Y": 599.785645
+            },
+            "Scale": {
+              "ScaleX": 1.1,
+              "ScaleY": 1.1
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 60.0,
+              "Y": 20.0
+            },
+            "FrameEvent": "",
+            "Name": "lv_100",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Scale": {
+          "ScaleX": 1.0,
+          "ScaleY": 1.0
+        },
+        "AnchorPoint": {},
+        "CColor": {},
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "FrameEvent": "",
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    },
+    "CameraPosition": {
+      "ValueX": 0.0,
+      "ValueY": 5.0,
+      "ValueZ": -1.0
+    },
+    "CameraRotation": {
+      "ValueX": 0.0,
+      "ValueY": 0.0,
+      "ValueZ": 0.0
+    }
+  },
+  "Type": "Scene"
+}
